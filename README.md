@@ -6,3 +6,5 @@ You could manage clients, create quotes and invoices, receive payments and analy
 
 Here you will find the API for developers:
 You can use the API to create bills programmatically! With this documentation you can inform yourself about the functions.
+
+*The API will be available soon!*
