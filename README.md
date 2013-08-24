@@ -7,7 +7,7 @@ You could manage clients, create quotes and invoices, receive payments and analy
 Here you will find the API for developers:
 You can use the API to create bills programmatically! With this documentation you can inform yourself about the functions.
 
-*The API will be available soon!*
+**[View documentation](USAGE.md)**
 
 ***
 
@@ -17,7 +17,7 @@ Verwalte Kunden, erstelle Angebote und Rechnungen, empfange Zahlungen und analys
 Hier findest du die API für Entwickler:
 Du kannst die API verwenden, um Rechnungen programmgesteuert zu erstellen. Hier findest du die Dokumentation zur Nutzung der API.
 
-*Die API ist bald verfügbar!*
+**[Dokumentation ansehen](USAGE.md)**
 
 Billingmaker Templates
 ======================
