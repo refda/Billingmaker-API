@@ -13,4 +13,4 @@ http://www.billingmaker.com/contact.php
 
 Die API steht Billingmaker kostenlos Nutzern nicht zur Verfügung.
 
-<a href='http://screenshot.reloado.com/show/yBbEe-2900.html'><img src='http://screenshot.reloado.com/img/x/yBbEe-2900.png' border='0'></a>
+<a href='http://screenshot.reloado.com/show/yBbEe-2900.html'><img src='https://screenshot.reloado.com/img/x/yBbEe-2900.png' border='0'></a>
